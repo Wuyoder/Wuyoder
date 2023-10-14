@@ -10,5 +10,7 @@
   <a href="https://www.facebook.com/Wuyoder/">Facebook</a>
   <span> / </span>
   <a href="https://www.instagram.com/namnuswu/">Instagram</a>
+  <span> / </span>
+  <a href="https://www.goodreads.com/user/show/169084592-yoder">Goodreads</a>
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyoder&layout=compact"/> -->
