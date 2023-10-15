@@ -3,11 +3,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/wuyoder/">Linkedin</a>
   <span> / </span>
+  <a href="https://ithelp.ithome.com.tw/users/20152944">ITHome</a>
+  <span> / </span>
+  <a href="https://www.facebook.com/Wuyoder/">Facebook</a>
+  <span> / </span>
   <a href="https://yodering.net">Blog</a>
   <span> / </span>
   <a href="https://podcasts.apple.com/tw/podcast/minorparty/id1711581041">Podcast</a>
-  <span> / </span>
-  <a href="https://www.facebook.com/Wuyoder/">Facebook</a>
   <span> / </span>
   <a href="https://www.instagram.com/namnuswu/">Instagram</a>
   <span> / </span>
